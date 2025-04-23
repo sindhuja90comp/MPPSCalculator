@@ -2,12 +2,12 @@
 This program calculates basic statistics (mean, median, and mode) on a list of integers. The program is implemented in C, OCaml, and Python, demonstrating a different paradigm in each language.
 
 ## Table of Contents
-1. Overview
-2. Project Structure
-3. Running the Python Application
-4. Running the C++ Application
-5. Running the OCaml Application
-6. Additional Information
+1. [Overview](#overview)
+2. [Project Structure](#project-structure)
+3. [Running the Python Application](#running-the-python-application)
+4. [Running the C++ Application](#running-the-c-application)
+5. [Running the OCaml Application](#running-the-ocaml-application)
+6. [Additional Information](#additional-information)
 
 ---
 
