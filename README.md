@@ -93,4 +93,4 @@ To execute the OCaml implementation:
   - **C++**: Requires a C++ compiler supporting the C++11 standard or later.
   - **OCaml**: Requires the OCaml compiler installed on your system.
 
-For additional details, refer to the `README.md` file in the repository, which contains further documentation about the project.
+
